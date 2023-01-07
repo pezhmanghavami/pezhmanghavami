@@ -1,5 +1,5 @@
 ## Hi there!
 
-I'm Pezhman Ghavami, a front-end engineer.
+I'm Pezhman Ghavami Front-End Engineer specializing in Web Applications and the reactive web, with more than 4 years of experience shipping awesome products.
 
-During the past four years co-founded Rayabot and been its lead developer working on various projects, taking them from ideas to production.
+Obsessed with application performance, user experience and simplicity.
